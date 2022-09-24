@@ -9,7 +9,7 @@ practical optimization, and presents classical architectures such as CNN, RNN, a
 
 - ### Course syllabus :
 -------------------
-C1/TP1 (4h) – Introduction to machine learning.
+C1/TP1 (4h) – Introduction to machine learning.  
 C2/TP2 (4h) – Tabular reinforcement learning.
 C3/TP3-TP4 (6h) – Fundamentals of neural networks (backpropagation and gradient descent), presentation of deep learning environments in Python (PyTorch,TensorFlow …).
 C4/TP5 (4h) – Introduction to deep learning (definition, applications, challenges), optimization and regularization (Adam, batch norm, dropout, data augmentation, …).
